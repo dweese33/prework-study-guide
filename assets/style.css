@@ -7,8 +7,8 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: purple;
-    color: white;
+    background-color: darkviolet;
+    color: gold;
 }
 
 h1,
@@ -37,6 +37,6 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid darkgreen;
+    border: 5px solid blueviolet;
     box-shadow: 5px 10px #800080;
   }
